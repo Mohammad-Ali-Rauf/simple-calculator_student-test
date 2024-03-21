@@ -1,9 +1,10 @@
 {
-  "name": "q123456789",
-  "version": "1.0.0",
+  "name": "simple_calculator_by_malaika-clone",
+  "version": "2.0.0",
   "description": "\"simple calculator\"",
   "main": "malli.js",
   "type": "module",
+  "bin":"malli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
